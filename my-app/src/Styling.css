@@ -1,0 +1,52 @@
+.Dark-theme {
+    background-color: #020001;
+    min-height: 100vh;
+    color: #eecceb;
+
+}
+
+.Header-dark {
+    text-align: left;
+    background-color: #18030e;
+    color: #eecceb;
+    display: block ruby;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #eecceb;
+}
+
+.Content{
+    text-align: left;
+    background-color: #18030e;
+    color: #eecceb;
+    display: block ruby;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #eecceb;
+}
+
+.Header-text {
+    margin-left: 1vw;
+}
+
+.Header-links {
+    color: #eecceb;
+    text-decoration: underline;
+}
+
+.Header-links:hover {
+    cursor: pointer;
+}
+
+.App-link {
+    color: #eecceb;
+
+}
+
+.Button {
+    color: #eecceb;
+}

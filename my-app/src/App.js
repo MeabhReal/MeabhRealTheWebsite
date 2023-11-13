@@ -1,11 +1,14 @@
-import logo from './logo.svg';
-import './App.css';
+import './Styling.css';
+import Header from './page_components/header.js';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+  <div className="Dark-theme">
+      <br/>
+      <Header/>
+      <br/>
+      <div className="Content">
+
         <p>
           Wow, what a first commit for <code>Méabh</code> the website!
         </p>
@@ -17,7 +20,7 @@ function App() {
         >
           Learn React
         </a>
-      </header>
+    </div>
     </div>
   );
 }
